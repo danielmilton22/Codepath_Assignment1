@@ -13,7 +13,8 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-
+ Not sure why gif isn't working
+ link: https://gifs.com/gif/codepath2-pZLA8N
 
 <img src="https://gifs.com/gif/codepath2-pZLA8N" width=250><br>
 
