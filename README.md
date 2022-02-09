@@ -15,7 +15,7 @@
 ### App Walkthrough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://gifs.com/gif/codepath2-pZLA8N" width=250><br>
 
 ### Notes
 No challenges this time!
